@@ -64,10 +64,6 @@ Promo for a [VOX Master](https://voxmaster.ru) Vocal Master Class
 [![Alt-text for thumbnail](https://img.youtube.com/vi/lTOBK_pBtww/0.jpg)](https://www.youtube.com/watch?v=lTOBK_pBtww)
 
 
- EasyFest 
-
-[![Alt-text for thumbnail](https://img.youtube.com/vi/0x8yGAIk61Q/0.jpg)](https://www.youtube.com/watch?v=0x8yGAIk61Q)
-
 
 
 
