@@ -40,20 +40,42 @@ Design your control layout using Buttons, Faders and XY Pads!
 
 MATH ADD
 
+[Link text](https://drive.google.com/file/d/1a3BjxI6sYjtkFzDRexmyKVJC-Lxq776L/view?usp=sharing).
+
 
 
 ADVANCE GLOBE THING
 
 
+https://drive.google.com/file/d/1efcc9Lrej58cMHDG5Zus7-4GuTWxi0M9/view?usp=sharing
+
+https://drive.google.com/file/d/1582VGsodPQ8dNCN9zRFJ8iYJJPK00guW/view?usp=sharing
+
+
+Advance english course thing
+
+https://drive.google.com/file/d/1Rd3jalSKI9PJ--CIcA9Vi1ZC0rRPli7Z/view?usp=sharing
+
 
 Fateeva https://vk.com/video1353336_456239047
 
-VOX Master https://www.youtube.com/watch?v=lTOBK_pBtww
-
-EasyFest https://www.youtube.com/watch?v=0x8yGAIk61Q
-
-5 углов выставка https://www.youtube.com/watch?v=C2B7axBOXgc
 
 
+
+
+VOX Master 
+
+[![Alt-text for thumbnail](https://img.youtube.com/vi/lTOBK_pBtww/0.jpg)](https://www.youtube.com/watch?v=lTOBK_pBtww)
+
+
+EasyFest 
+
+[![Alt-text for thumbnail](https://img.youtube.com/vi/0x8yGAIk61Q/0.jpg)](https://www.youtube.com/watch?v=0x8yGAIk61Q)
+
+
+
+5 углов выставка 
+
+[![Alt-text for thumbnail](https://img.youtube.com/vi/C2B7axBOXgc/0.jpg)](https://www.youtube.com/watch?v=C2B7axBOXgc)
 
 
