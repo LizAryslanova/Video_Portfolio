@@ -21,14 +21,23 @@ Hey there!
 
 ## Sub-section heading
 
-MATH CHANNEL https://www.youtube.com/c/ЛизаоМатематике
-
+My YouTube channel about mathematics (in russian) [Link](https://www.youtube.com/c/ЛизаоМатематике)
 
 
 [![Alt-text for thumbnail](https://img.youtube.com/vi/-pSEr79Ibxw/0.jpg)](https://www.youtube.com/watch?v=-pSEr79Ibxw)
 
+---
+MATH ADD
+
+![Screenshot 2021-08-25 at 21 47 07](https://user-images.githubusercontent.com/84514278/130847874-0ff87734-11f8-4873-849c-bf7fb438b164.png)
 
 
+[![Alt-text for thumbnail](![Screenshot 2021-08-25 at 21 47 07](https://user-images.githubusercontent.com/84514278/130847874-0ff87734-11f8-4873-849c-bf7fb438b164.png))](https://drive.google.com/file/d/1a3BjxI6sYjtkFzDRexmyKVJC-Lxq776L/view?usp=sharing)
+
+[Link text](https://drive.google.com/file/d/1a3BjxI6sYjtkFzDRexmyKVJC-Lxq776L/view?usp=sharing).
+
+
+---
 
 
 [![Alt-text for thumbnail](https://img.youtube.com/vi/NrpUNTRJZtc/0.jpg)](https://www.youtube.com/watch?v=NrpUNTRJZtc)
@@ -38,9 +47,6 @@ Design your control layout using Buttons, Faders and XY Pads!
 
 ---
 
-MATH ADD
-
-[Link text](https://drive.google.com/file/d/1a3BjxI6sYjtkFzDRexmyKVJC-Lxq776L/view?usp=sharing).
 
 
 
