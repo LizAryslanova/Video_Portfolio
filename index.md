@@ -23,7 +23,12 @@ Hey there!
 
 MATH CHANNEL https://www.youtube.com/c/ЛизаоМатематике
 
-https://www.youtube.com/watch?v=-pSEr79Ibxw
+
+
+[![Alt-text for thumbnail](https://img.youtube.com/vi/-pSEr79Ibxw/0.jpg)](https://www.youtube.com/watch?v=-pSEr79Ibxw)
+
+
+
 
 
 [![Alt-text for thumbnail](https://img.youtube.com/vi/NrpUNTRJZtc/0.jpg)](https://www.youtube.com/watch?v=NrpUNTRJZtc)
@@ -42,6 +47,8 @@ ADVANCE GLOBE THING
 
 
 Fateeva https://vk.com/video1353336_456239047
+
+VOX Master https://www.youtube.com/watch?v=lTOBK_pBtww
 
 EasyFest https://www.youtube.com/watch?v=0x8yGAIk61Q
 
