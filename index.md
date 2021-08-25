@@ -47,9 +47,9 @@ Hey there!
 
 From a course about mnemonic techniques:
 
-[![Alt-text for thumbnail](![Screenshot 2021-08-25 at 22 19 02](https://user-images.githubusercontent.com/84514278/130851970-32c939fc-8111-4dc0-9c33-519bc416f9f2.png))](https://drive.google.com/file/d/1efcc9Lrej58cMHDG5Zus7-4GuTWxi0M9/view?usp=sharing)
+[![Screenshot 2021-08-25 at 22 19 02](https://user-images.githubusercontent.com/84514278/130851970-32c939fc-8111-4dc0-9c33-519bc416f9f2.png))](https://drive.google.com/file/d/1efcc9Lrej58cMHDG5Zus7-4GuTWxi0M9/view?usp=sharing)
 
-[![Alt-text for thumbnail](![Screenshot 2021-08-25 at 22 19 54](https://user-images.githubusercontent.com/84514278/130852017-7f4dfd75-6c1c-475a-a741-d9c360023d07.png))](https://drive.google.com/file/d/1582VGsodPQ8dNCN9zRFJ8iYJJPK00guW/view?usp=sharing)
+[![Screenshot 2021-08-25 at 22 19 54](https://user-images.githubusercontent.com/84514278/130852017-7f4dfd75-6c1c-475a-a741-d9c360023d07.png))](https://drive.google.com/file/d/1582VGsodPQ8dNCN9zRFJ8iYJJPK00guW/view?usp=sharing)
 
 
 
