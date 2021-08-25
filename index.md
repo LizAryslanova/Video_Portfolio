@@ -42,10 +42,10 @@ Hey there!
 
 ---
 
- On-line school [Advance](https://advance24.online)
+ Some of the videos for on-line school [Advance](https://advance24.online)
 
 
- Videos from a course about mnemonic techniques:
+From a course about mnemonic techniques:
 
 [Video 1](https://drive.google.com/file/d/1efcc9Lrej58cMHDG5Zus7-4GuTWxi0M9/view?usp=sharing)
 
@@ -53,8 +53,7 @@ Hey there!
 
 
 
- [Video](https://drive.google.com/file/d/1Rd3jalSKI9PJ--CIcA9Vi1ZC0rRPli7Z/view?usp=sharing) from an English language course
-
+ 
 
 
 
