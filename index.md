@@ -30,7 +30,7 @@ My YouTube channel about mathematics (in russian) [Link](https://www.youtube.com
 MATH ADD
 
 
-[![Alt-text for thumbnail](![Screenshot 2021-08-25 at 21 47 07](https://user-images.githubusercontent.com/84514278/130847874-0ff87734-11f8-4873-849c-bf7fb438b164.png)](https://drive.google.com/file/d/1a3BjxI6sYjtkFzDRexmyKVJC-Lxq776L/view?usp=sharing)
+![Screenshot 2021-08-25 at 21 47 07](https://user-images.githubusercontent.com/84514278/130847874-0ff87734-11f8-4873-849c-bf7fb438b164.png)](https://drive.google.com/file/d/1a3BjxI6sYjtkFzDRexmyKVJC-Lxq776L/view?usp=sharing)
 
 
 ---
