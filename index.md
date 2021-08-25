@@ -3,7 +3,9 @@ title: Liz Aryslanova
 subtitle: Video projects
 ---
 
+Hello! Thank you for visiting my Portfolio page. Here you will find some of the videos that i filmed and edited&
 
+---
 
  My [YouTube channel](https://www.youtube.com/c/ЛизаоМатематике) about mathematics (in russian) 
 
