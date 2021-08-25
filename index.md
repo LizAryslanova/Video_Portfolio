@@ -50,4 +50,3 @@ EasyFest https://www.youtube.com/watch?v=0x8yGAIk61Q
 
 
 
-#![Screenshot 2021-08-25 at 18 53 38](https://user-images.githubusercontent.com/84514278/130823744-97120698-055f-467d-a4fd-a16f9d729111.png)
