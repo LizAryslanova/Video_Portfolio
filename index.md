@@ -53,15 +53,13 @@ From a course about mnemonic techniques:
 
 
 
-
- 
-
+ Promo for an Art History course for kids [![Screenshot 2021-08-25 at 22 25 11](https://user-images.githubusercontent.com/84514278/130852428-bfda1050-5f3a-40ab-bf95-3eb880796a0d.png)](https://vk.com/video1353336_456239047)
 
 
- Promo for an Art History course for kids (https://vk.com/video1353336_456239047)
 
 
- Promo for a [VOX Master](https://voxmaster.ru) Vocal Master Class 
+
+Promo for a [VOX Master](https://voxmaster.ru) Vocal Master Class 
 
 [![Alt-text for thumbnail](https://img.youtube.com/vi/lTOBK_pBtww/0.jpg)](https://www.youtube.com/watch?v=lTOBK_pBtww)
 
