@@ -40,6 +40,7 @@ Design your control layout using Buttons, Faders and XY Pads!
 
 
 Fun add for Mathematics
+
 [![Alt-text for thumbnail](https://img.youtube.com/vi/HpRZO4PLomo/0.jpg)](https://www.youtube.com/watch?v=HpRZO4PLomo)
 
 ---
@@ -63,10 +64,7 @@ Videos from a course about mnemonic techniques:
 Fateeva https://vk.com/video1353336_456239047
 
 
-
-
-
-VOX Master 
+Promo from a [VOX Master](https://voxmaster.ru) Vocal Master Class 
 
 [![Alt-text for thumbnail](https://img.youtube.com/vi/lTOBK_pBtww/0.jpg)](https://www.youtube.com/watch?v=lTOBK_pBtww)
 
@@ -76,9 +74,5 @@ EasyFest
 [![Alt-text for thumbnail](https://img.youtube.com/vi/0x8yGAIk61Q/0.jpg)](https://www.youtube.com/watch?v=0x8yGAIk61Q)
 
 
-
-5 углов выставка 
-
-[![Alt-text for thumbnail](https://img.youtube.com/vi/C2B7axBOXgc/0.jpg)](https://www.youtube.com/watch?v=C2B7axBOXgc)
 
 
