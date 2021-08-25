@@ -21,7 +21,7 @@ Hey there!
 
 ## Sub-section heading
 
-My YouTube channel about mathematics (in russian) [Link](https://www.youtube.com/c/ЛизаоМатематике)
+My [YouTube channel](https://www.youtube.com/c/ЛизаоМатематике) about mathematics (in russian) 
 
 
 [![Alt-text for thumbnail](https://img.youtube.com/vi/-pSEr79Ibxw/0.jpg)](https://www.youtube.com/watch?v=-pSEr79Ibxw)
