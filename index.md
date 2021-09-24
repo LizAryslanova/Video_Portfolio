@@ -9,7 +9,7 @@ Hello! Thank you for visiting my Portfolio page. Here you will find some of the 
 
 Bits of Information - What is informaton
 
-[![Alt-text for thumbnail](https://img.youtube.com/vi/mvc3nlCzPj4&t/0.jpg)](https://www.youtube.com/watch?v=mvc3nlCzPj4&t)
+[![Alt-text for thumbnail](https://img.youtube.com/vi/mvc3nlCzPj4/0.jpg)](https://www.youtube.com/watch?v=mvc3nlCzPj4&t)
 
 
 ---
