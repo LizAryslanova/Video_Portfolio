@@ -14,6 +14,12 @@ Bits of Information - What is informaton
 
 ---
 
+ Promo for **Dynamic Controls** app for ROLI Dashboard
+
+[![Alt-text for thumbnail](https://img.youtube.com/vi/NrpUNTRJZtc/0.jpg)](https://www.youtube.com/watch?v=NrpUNTRJZtc)
+
+
+---
 My [YouTube channel](https://www.youtube.com/c/ЛизаоМатематике) about mathematics (in russian) 
 
 
@@ -21,12 +27,6 @@ My [YouTube channel](https://www.youtube.com/c/ЛизаоМатематике) a
 
 ---
 
- Promo for **Dynamic Controls** app for ROLI Dashboard
-
-[![Alt-text for thumbnail](https://img.youtube.com/vi/NrpUNTRJZtc/0.jpg)](https://www.youtube.com/watch?v=NrpUNTRJZtc)
-
-
----
 
 
  Fun add for Mathematics
